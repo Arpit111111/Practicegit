@@ -1,2 +1,2 @@
-## PRacticing Git Commands
-## This is my first github projectg git
+## Practicing Git Commands
+## This is my first github projec
