@@ -1,2 +1,2 @@
 ## Practicing Git Commands
-## This is my first github projec
+## This is my first github project
